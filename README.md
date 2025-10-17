@@ -6,10 +6,11 @@ The project studies how global crises such as pandemics especially covid, wars a
 - UN Trade Data: The dataeset records the imports and exports between countries allowing us the analysis of the trade flows and disruptions during the crises.
 - GTA COVID-19 Sponsors Data: The dataset captures trade restrictions, bans, and crisis-related measures such as export bans on medical supplies during the pandemic.
 
- ### Colab Notebook
+### Colab Notebook
 You can view and run the notebook directly in Google Colab:
 
-[Milestone 2]([https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID](https://colab.research.google.com/drive/1uqGQGk0nea3QlASaFbAvVSU8Nh8PAToA#scrollTo=168c7674))
+[Milestone 2 Data Exploration](https://colab.research.google.com/drive/1uqGQGk0nea3QlASaFbAvVSU8Nh8PAToA?usp=sharing)
+
 
 
 # Team Members
