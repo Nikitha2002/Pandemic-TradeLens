@@ -2,9 +2,9 @@
 The project studies how global crises such as pandemics especially covid, wars and sanctions impact the international trade by analyzing the import and exports between countries.We use datasets on Trade, Bank Data, Covid data and aim to identify why and how countries imposed certain restriction and what underlying factors explains those actions.
 
 # Data Sets used
-- Wolrd Bank Data: The datasets provides key macro economic indicators such as GDP, inflation, and trade openness which help us understand and expkain country level economic conditions.
-- UN Trade Data: The dataeset records the imports and exports between countries allowing us the analysis of the trade flows and disruptions during the crises.
-- GTA COVID-19 Sponsors Data: The dataset captures trade restrictions, bans, and crisis-related measures such as export bans on medical supplies during the pandemic.
+- World Bank Trade Dataset: Extracted from the World Development Indicators (WDI) via the wbgapi Python package. This dataset includes key trade metrics such as exports, imports, and current account balances for countries globally, spanning 2000–2023.
+- IMF-style Trade Dataset: Programmatically derived from the World Bank API to resemble IMF trade indicators. It includes metrics such as trade openness, balance of payments, and other normalized trade measures to facilitate comparative analysis across countries.
+- COVID-19 Trade Impact Dataset: Integrates trade data with pandemic-period indicators from 2015–2023. This dataset highlights shifts in global trade patterns during COVID-19, capturing disruptions and recovery trends in exports, imports, and trade balances.
 
 ### Colab Notebook
 You can view and run the notebook directly in Google Colab:
