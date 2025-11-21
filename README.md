@@ -9,7 +9,7 @@ The project studies how global crises such as pandemics especially covid, wars a
 ### Colab Notebook
 You can view and run the notebook directly in Google Colab:
 
-[Milestone 2](https://colab.research.google.com/drive/1uqGQGk0nea3QlASaFbAvVSU8Nh8PAToA?usp=sharing)
+[Project](https://colab.research.google.com/drive/1uqGQGk0nea3QlASaFbAvVSU8Nh8PAToA?usp=sharing)
 
 
 
